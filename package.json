@@ -1,17 +1,24 @@
 {
   "name": "node-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "A CLI-based application for bootstrapping your node js projects with ES6 support.",
   "main": "./bin/index.js",
+  "homepage": "https://github.com/ayushgupta11/node-server",
   "bin": {
     "node-server": "./bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "Ayush Gupta",
-  "license": "ISC",
+  "keywords": [
+    "node.js", "node.js cli", "cli", "create-node-server", "boilerplate"
+  ],
+  "author": {
+    "name": "Ayush Gupta",
+    "email": "ayush.gupta.1197@gmail.com",
+    "url": "https://ayushgupta11.github.io/"
+  },
+  "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.0",
     "node-cmd": "^4.0.0",
