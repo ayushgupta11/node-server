@@ -1,4 +1,4 @@
-# node-server
+# node-server-gen
 A npm module based on node-js for creating node js server for your projects.
 This project is similar to `create-react-app` as it provides basic CLI functionality for bootstrapping your node.js projects with a boilerplate template along with the support of ES6 syntax.
 
@@ -8,7 +8,7 @@ This project is similar to `create-react-app` as it provides basic CLI functiona
 
 ## How to use?
 1. Install this package globally using below command.
-> `npm install node-server -g`
+> `npm install node-server-gen -g`
 2. Run below command to initialize your project.
 > `node-server init <project-name>`
 
