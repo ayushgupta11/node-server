@@ -1,6 +1,6 @@
 {
   "name": "node-server-gen",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A CLI-based application for bootstrapping your node js projects with ES6 support.",
   "main": "./bin/index.js",
   "homepage": "https://github.com/ayushgupta11/node-server",
